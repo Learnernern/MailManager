@@ -1,4 +1,4 @@
-#MailManager
+## MailManager
 对nodejs的imap模块进行了简单的封装，目前实现的功能：
 > * 下载邮件
 > * 获取邮件信息
@@ -6,7 +6,7 @@
 更多功能今后继续完善
 
 
-#Example
+## Example
 
 ```javascript
 var manager= require("../mail_manager")
